@@ -1,0 +1,13 @@
+/.idea
+/.vscode
+/vendor
+/.history
+*.log
+*.pid
+/thinkphp
+/runtime
+.env
+.DS_Store
+
+test*.php
+*test.php
